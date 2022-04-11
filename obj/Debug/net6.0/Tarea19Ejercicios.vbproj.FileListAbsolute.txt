@@ -1,0 +1,15 @@
+C:\Users\jopoc\OneDrive\Escritorio\Visual\Tarea19Ejercicios\bin\Debug\net6.0\Tarea19Ejercicios.exe
+C:\Users\jopoc\OneDrive\Escritorio\Visual\Tarea19Ejercicios\bin\Debug\net6.0\Tarea19Ejercicios.deps.json
+C:\Users\jopoc\OneDrive\Escritorio\Visual\Tarea19Ejercicios\bin\Debug\net6.0\Tarea19Ejercicios.runtimeconfig.json
+C:\Users\jopoc\OneDrive\Escritorio\Visual\Tarea19Ejercicios\bin\Debug\net6.0\Tarea19Ejercicios.dll
+C:\Users\jopoc\OneDrive\Escritorio\Visual\Tarea19Ejercicios\bin\Debug\net6.0\Tarea19Ejercicios.pdb
+C:\Users\jopoc\OneDrive\Escritorio\Visual\Tarea19Ejercicios\obj\Debug\net6.0\Tarea19Ejercicios.vbproj.AssemblyReference.cache
+C:\Users\jopoc\OneDrive\Escritorio\Visual\Tarea19Ejercicios\obj\Debug\net6.0\Tarea19Ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jopoc\OneDrive\Escritorio\Visual\Tarea19Ejercicios\obj\Debug\net6.0\Tarea19Ejercicios.AssemblyInfoInputs.cache
+C:\Users\jopoc\OneDrive\Escritorio\Visual\Tarea19Ejercicios\obj\Debug\net6.0\Tarea19Ejercicios.AssemblyInfo.vb
+C:\Users\jopoc\OneDrive\Escritorio\Visual\Tarea19Ejercicios\obj\Debug\net6.0\Tarea19Ejercicios.vbproj.CoreCompileInputs.cache
+C:\Users\jopoc\OneDrive\Escritorio\Visual\Tarea19Ejercicios\obj\Debug\net6.0\Tarea19Ejercicios.dll
+C:\Users\jopoc\OneDrive\Escritorio\Visual\Tarea19Ejercicios\obj\Debug\net6.0\refint\Tarea19Ejercicios.dll
+C:\Users\jopoc\OneDrive\Escritorio\Visual\Tarea19Ejercicios\obj\Debug\net6.0\Tarea19Ejercicios.pdb
+C:\Users\jopoc\OneDrive\Escritorio\Visual\Tarea19Ejercicios\obj\Debug\net6.0\Tarea19Ejercicios.genruntimeconfig.cache
+C:\Users\jopoc\OneDrive\Escritorio\Visual\Tarea19Ejercicios\obj\Debug\net6.0\ref\Tarea19Ejercicios.dll
